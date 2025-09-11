@@ -2,6 +2,41 @@
 
 # Data Cleaning & Feature Engineering
 
+### Running Instructions  
+
+Both tasks were implemented in Python using Jupyter Notebooks.  
+
+#### Environment Setup  
+- Python 3.9+  
+- Required libraries/packages:  
+  ```python
+  import pandas as pd
+  import re
+  import numpy as np
+  from sklearn.metrics.pairwise import cosine_similarity
+  from scipy.stats import spearmanr
+
+In case any package (e.g: pandas) is not already installed, the following command in a code cell to install it:
+  ```python
+   !pip install pandas
+   ```
+
+Steps to Run:
+
+1. Open the corresponding Jupyter notebook:
+
+- task_A1_inventory.ipynb : Inventory consolidation.
+- task_B3_similarity.ipynb : RFQ similarity & ablation study.
+
+2. Place the input datasets in the same working directory:
+
+- supplier_data1.xlsx
+- supplier_data2.xlsx
+- reference_properties.tsv
+- rfq.csv
+
+3. Run all notebook cells in sequence.
+
 ## Task A.1 — Consolidation of Supplier Inventories
 
 To create a unified **inventory dataset** from `supplier_data1.xlsx` and `supplier_data2.xlsx`, the following steps were applied:
