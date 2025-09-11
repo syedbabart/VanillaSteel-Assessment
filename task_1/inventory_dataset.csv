@@ -1,0 +1,101 @@
+quality,grade,finish,thickness_mm,width_mm,description,weight_kg,quantity,RP02,RM,AG,AI,article_id,reserved,source
+3rd,C200S,pickled and annealed,2.77,1100,longitudinal or transverse cracks,13983,0.0,333.6,606.2,16.11,0.0054,,,supplier1
+3rd,C300S,unpickled,2.65,1075,longitudinal or transverse cracks,13047,0.0,717.7,0.0,16.11,0.0046,,,supplier1
+3rd,C100S,pickled and annealed,2.2,1100,edge defect - FS edge cracks,14155,10.84,368.9,0.0,0.0,0.0061,,,supplier1
+2nd,C100S,pickled,2.86,1100,longitudinal or transverse cracks,11381,22.87,368.9,601.7,0.0,0.0062,,,supplier1
+1st,C300S,unpickled,2.88,1050,nominal weight undershot,10072,22.87,0.0,1213.0,0.0,0.0041,,,supplier1
+2nd,C200S,pickled,2.51,1000,longitudinal or transverse cracks,12863,0.0,0.0,606.2,0.0,0.0059,,,supplier1
+1st,C100S,pickled,2.69,1150,nominal weight undershot,8936,10.84,0.0,606.2,15.05,0.0066,,,supplier1
+2nd,C300S,pickled and annealed,2.98,1000,nominal weight undershot,9810,22.87,0.0,601.7,15.05,0.0042,,,supplier1
+3rd,C200S,pickled,2.03,1050,longitudinal or transverse cracks,5491,22.87,368.9,601.7,0.0,0.0064,,,supplier1
+3rd,C300S,pickled,2.54,1050,longitudinal or transverse cracks,11415,0.0,368.9,606.2,15.05,0.0067,,,supplier1
+2nd,C100S,pickled and annealed,2.31,1050,edge defect - FS edge cracks,14758,0.0,333.6,0.0,0.0,0.0061,,,supplier1
+1st,C100S,unpickled,2.55,1050,nominal weight undershot,13400,0.0,717.7,606.2,15.05,0.0047,,,supplier1
+3rd,C100S,pickled and annealed,2.52,1100,longitudinal or transverse cracks,12787,25.46,368.9,0.0,16.11,0.005,,,supplier1
+2nd,C200S,unpickled,2.46,1000,nominal weight undershot,8391,22.87,368.9,601.7,0.0,0.0053,,,supplier1
+3rd,C100S,pickled and annealed,2.74,1100,longitudinal or transverse cracks,10409,10.84,0.0,601.7,6.858,0.0062,,,supplier1
+2nd,C100S,pickled,2.27,1150,nominal weight undershot,5951,0.0,0.0,601.7,6.858,0.0061,,,supplier1
+2nd,C300S,unpickled,2.08,1150,edge defect - FS edge cracks,8240,22.87,333.6,601.7,15.05,0.0068,,,supplier1
+1st,C300S,pickled and annealed,2.29,1050,longitudinal or transverse cracks,14139,22.87,368.9,606.2,16.11,0.0066,,,supplier1
+3rd,C100S,unpickled,2.19,1050,longitudinal or transverse cracks,7304,10.84,333.6,1213.0,0.0,0.0064,,,supplier1
+2nd,C100S,pickled and annealed,2.14,1000,edge defect - FS edge cracks,13518,22.87,368.9,1213.0,16.11,0.0055,,,supplier1
+1st,C100S,pickled,2.84,1150,longitudinal or transverse cracks,12010,10.84,717.7,1213.0,6.858,0.0068,,,supplier1
+2nd,C200S,pickled and annealed,2.88,1050,nominal weight undershot,6665,0.0,717.7,1213.0,16.11,0.0051,,,supplier1
+1st,C100S,pickled and annealed,2.51,1050,longitudinal or transverse cracks,14839,0.0,0.0,606.2,15.05,0.0041,,,supplier1
+3rd,C200S,pickled,2.22,1050,longitudinal or transverse cracks,10959,22.87,368.9,606.2,0.0,0.0051,,,supplier1
+2nd,C200S,unpickled,2.83,1100,nominal weight undershot,14688,0.0,333.6,606.2,16.11,0.0057,,,supplier1
+3rd,C300S,pickled,2.32,1150,longitudinal or transverse cracks,5979,25.46,717.7,601.7,16.11,0.0065,,,supplier1
+3rd,C100S,pickled and annealed,2.48,1050,edge defect - FS edge cracks,10499,10.84,333.6,1213.0,15.05,0.0059,,,supplier1
+2nd,C300S,pickled and annealed,2.21,1100,nominal weight undershot,10723,25.46,368.9,1213.0,6.858,0.0042,,,supplier1
+2nd,C100S,unpickled,2.75,1100,longitudinal or transverse cracks,10262,10.84,368.9,0.0,6.858,0.0049,,,supplier1
+3rd,C200S,pickled,2.75,1075,edge defect - FS edge cracks,8118,0.0,0.0,601.7,0.0,0.0069,,,supplier1
+3rd,C100S,unpickled,2.89,1075,nominal weight undershot,5011,10.84,0.0,606.2,0.0,0.0053,,,supplier1
+1st,C100S,pickled and annealed,2.32,1150,nominal weight undershot,8410,25.46,333.6,601.7,6.858,0.0048,,,supplier1
+3rd,C300S,pickled,2.53,1100,longitudinal or transverse cracks,5124,25.46,0.0,601.7,15.05,0.0041,,,supplier1
+2nd,C100S,pickled and annealed,2.18,1075,nominal weight undershot,12071,25.46,368.9,1213.0,16.11,0.0054,,,supplier1
+2nd,C100S,pickled,2.75,1000,edge defect - FS edge cracks,13321,10.84,368.9,606.2,16.11,0.0045,,,supplier1
+2nd,C300S,unpickled,2.43,1000,longitudinal or transverse cracks,7968,0.0,717.7,1213.0,0.0,0.0047,,,supplier1
+1st,C300S,pickled,2.82,1050,edge defect - FS edge cracks,12702,22.87,717.7,0.0,16.11,0.0054,,,supplier1
+1st,C200S,pickled and annealed,2.8,1050,edge defect - FS edge cracks,5915,0.0,717.7,601.7,15.05,0.0058,,,supplier1
+1st,C100S,pickled,2.01,1050,longitudinal or transverse cracks,8047,22.87,333.6,601.7,16.11,0.0067,,,supplier1
+2nd,C300S,unpickled,2.3,1000,longitudinal or transverse cracks,7772,25.46,0.0,0.0,0.0,0.0059,,,supplier1
+3rd,C200S,unpickled,2.12,1075,longitudinal or transverse cracks,9995,10.84,368.9,0.0,15.05,0.007,,,supplier1
+1st,C100S,pickled and annealed,2.37,1075,edge defect - FS edge cracks,9774,10.84,368.9,606.2,16.11,0.0063,,,supplier1
+2nd,C100S,pickled and annealed,2.43,1150,nominal weight undershot,11360,22.87,368.9,606.2,16.11,0.0051,,,supplier1
+3rd,C100S,unpickled,2.08,1100,longitudinal or transverse cracks,8261,22.87,333.6,1213.0,15.05,0.0041,,,supplier1
+3rd,C100S,pickled and annealed,2.75,1050,edge defect - FS edge cracks,9110,22.87,368.9,1213.0,16.11,0.0058,,,supplier1
+2nd,C300S,unpickled,2.72,1150,longitudinal or transverse cracks,13667,10.84,0.0,606.2,0.0,0.0055,,,supplier1
+3rd,C100S,pickled and annealed,2.74,1000,longitudinal or transverse cracks,6947,22.87,717.7,606.2,6.858,0.0045,,,supplier1
+3rd,C100S,pickled,2.48,1150,nominal weight undershot,8786,0.0,717.7,1213.0,0.0,0.0042,,,supplier1
+1st,C300S,pickled,2.48,1150,nominal weight undershot,14311,25.46,368.9,1213.0,15.05,0.0046,,,supplier1
+1st,C100S,pickled,2.79,1050,nominal weight undershot,8048,0.0,0.0,0.0,15.05,0.0052,,,supplier1
+,HDC,,,,Material is Oiled,24469,52.0,,,,,23048203.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Oiled,16984,41.0,,,,,23040547.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Painted,9162,28.0,,,,,23046057.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Oiled,12119,66.0,,,,,23041966.0,VANILLA,supplier2
+,HDC,,,,Material is Painted,17260,26.0,,,,,23043884.0,NOT RESERVED,supplier2
+,DX51D +Z140,,,,Material is not Oiled,23258,60.0,,,,,23048868.0,VANILLA,supplier2
+,HDC,,,,Material is Oiled,20994,93.0,,,,,23046459.0,VANILLA,supplier2
+,HDC,,,,Material is Oiled,22325,73.0,,,,,23043788.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Oiled,10571,60.0,,,,,23044935.0,NOT RESERVED,supplier2
+,DX51D +Z140,,,,Material is not Oiled,12999,95.0,,,,,23049059.0,VANILLA,supplier2
+,HDC,,,,Material is not Oiled,15862,59.0,,,,,23047860.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Painted,9217,72.0,,,,,23047939.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is not Oiled,15881,36.0,,,,,23047348.0,NOT RESERVED,supplier2
+,HDC,,,,Material is Painted,23915,30.0,,,,,23045961.0,VANILLA,supplier2
+,S235JR,,,,Material is Painted,15741,71.0,,,,,23042649.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is not Oiled,15717,54.0,,,,,23048176.0,VANILLA,supplier2
+,S235JR,,,,Material is Painted,23967,10.0,,,,,23043667.0,NOT RESERVED,supplier2
+,HDC,,,,Material is not Oiled,21346,58.0,,,,,23046190.0,VANILLA,supplier2
+,S235JR,,,,Material is not Oiled,10389,22.0,,,,,23044291.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Oiled,18501,94.0,,,,,23046841.0,VANILLA,supplier2
+,S235JR,,,,Material is Oiled,14277,33.0,,,,,23041008.0,VANILLA,supplier2
+,S235JR,,,,Material is Oiled,24951,98.0,,,,,23041560.0,NOT RESERVED,supplier2
+,HDC,,,,Material is Painted,15121,12.0,,,,,23043638.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Oiled,17933,72.0,,,,,23041902.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is not Oiled,20304,82.0,,,,,23049627.0,VANILLA,supplier2
+,HDC,,,,Material is not Oiled,20027,96.0,,,,,23044610.0,VANILLA,supplier2
+,DX51D +Z140,,,,Material is not Oiled,23131,34.0,,,,,23049106.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Painted,6113,29.0,,,,,23048028.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Oiled,9037,78.0,,,,,23045099.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is not Oiled,24331,31.0,,,,,23046741.0,VANILLA,supplier2
+,DX51D +Z140,,,,Material is Painted,11898,21.0,,,,,23047239.0,VANILLA,supplier2
+,DX51D +AZ150,,,,Material is Oiled,21609,33.0,,,,,23049907.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Painted,19165,67.0,,,,,23044447.0,VANILLA,supplier2
+,HDC,,,,Material is not Oiled,18716,64.0,,,,,23047489.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is not Oiled,7025,33.0,,,,,23040273.0,VANILLA,supplier2
+,DX51D +Z140,,,,Material is Painted,14796,76.0,,,,,23040905.0,VANILLA,supplier2
+,DX51D +Z140,,,,Material is not Oiled,21149,62.0,,,,,23043967.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Painted,16393,68.0,,,,,23045724.0,VANILLA,supplier2
+,HDC,,,,Material is not Oiled,21321,93.0,,,,,23049672.0,VANILLA,supplier2
+,DX51D +AZ150,,,,Material is Oiled,22395,62.0,,,,,23049617.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Painted,9355,64.0,,,,,23043836.0,VANILLA,supplier2
+,S235JR,,,,Material is Painted,10143,78.0,,,,,23049333.0,NOT RESERVED,supplier2
+,HDC,,,,Material is Oiled,17001,62.0,,,,,23041897.0,VANILLA,supplier2
+,S235JR,,,,Material is not Oiled,6034,50.0,,,,,23040756.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Oiled,15230,95.0,,,,,23041086.0,NOT RESERVED,supplier2
+,DX51D +Z140,,,,Material is not Oiled,9940,96.0,,,,,23047543.0,NOT RESERVED,supplier2
+,DX51D +AZ150,,,,Material is Painted,23884,51.0,,,,,23045292.0,NOT RESERVED,supplier2
+,S235JR,,,,Material is Oiled,5302,12.0,,,,,23047408.0,VANILLA,supplier2
+,DX51D +Z140,,,,Material is Oiled,16927,69.0,,,,,23043348.0,VANILLA,supplier2
+,HDC,,,,Material is not Oiled,11191,75.0,,,,,23043386.0,VANILLA,supplier2
