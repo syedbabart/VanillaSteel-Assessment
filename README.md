@@ -102,13 +102,13 @@ top3.csv (with columns [rfq_id, match_id, similarity_score].)
 
 ## Bonus/stretch goal: Ablation Study
 
-To understand feature importance, we re-ran similarity scoring with different subsets:  
+To understand feature importance, I re-ran similarity scoring with different subsets:  
 
 - **Dimensions only**  
 - **Categorical only**  
 - **Grades only**  
 
-We compared these against the full weighted model (0.4 dimensions, 0.3 categorical, 0.3 grades) using:  
+I compared these against the full weighted model (0.4 dimensions, 0.3 categorical, 0.3 grades) using:  
 - **Spearman rank correlation (ρ)** → how well rankings align with the baseline.  
 - **Average score difference** → mean absolute difference in similarity scores compared to baseline.  
 
